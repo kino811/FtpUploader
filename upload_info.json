@@ -1,0 +1,13 @@
+{
+	"ftp_host": "127.0.0.1",
+	"ftp_port": 2121,
+	"ftp_username": "",
+	"ftp_passwd": "",
+	"uploads": [
+		{
+			"base_ftp_dir": "/Patch/Server", 
+			"making_dir_format": "{year}_{mon}_{day}-{seq}",
+			"target_path": "../JP/product/"
+		}
+	]
+}
